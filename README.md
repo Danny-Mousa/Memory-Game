@@ -1,15 +1,22 @@
 # MEMORY GAME
 ## Overview:
-> *`Full responsive, full keyboard accsseble, and with values stored locally`*
+> *`Full responsive, full keyboard accessible, and with values stored locally`*
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down.
-##### the main page
+
+## How to run this project :
+   - To run the project directly,please click [here](https://danny-mousa.github.io/Memory-Game/).
+   - For developers: the project repository is [here](https://github.com/Danny-Mousa/Memory-Game).
+   - Or you can `clone` this repo or `download` it as a `.zip` flie, then open the `index.html` file and you can see the testing results at the page bottom 
+
+##### The Main Page
  ![matching game](img/matching-game.png) 
  
-##### the "current dashboard"
+##### The "current dashboard"
  ![currentDash](img/current-dash.png)
 
-##### the "previous results dashboard"
+##### The "previous results dashboard"
  ![previousDash](img/previous.png)
+
 ## Game Rule:
 >The gameplay rule is very simple: flip over two hidden cards at a time to locate the ones that match!
 
