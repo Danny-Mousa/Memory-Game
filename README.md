@@ -8,13 +8,13 @@ The game board consists of sixteen "cards" arranged in a grid. The deck is made 
    - For developers: the project repository is [here](https://github.com/Danny-Mousa/Memory-Game).
    - Or you can `clone` this repo or `download` it as a `.zip` flie, then open the `index.html` file and you can see the testing results at the page bottom 
 
-##### The Main Page
+## The Main Page
  ![matching game](img/matching-game.png) 
  
-##### The "current dashboard"
+## The "current dashboard"
  ![currentDash](img/current-dash.png)
 
-##### The "previous results dashboard"
+## The "previous results dashboard"
  ![previousDash](img/previous.png)
 
 ## Game Rule:
